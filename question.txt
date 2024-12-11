@@ -1,0 +1,22 @@
+######################
+#NAME: MANOJ S
+#11/12/202, 17:27
+#THE FILE CONTAIN WITH QUESTIONS AND ANSWERS
+######################
+
+# Math Problems
+2+2 = Mathematically speaking, it's 4.
+5-2 = Logically, it results in 3.
+3*3 = Evidently, it's 9.
+10/2 = Without doubt, it's 5.
+
+# Personal Details
+Name = Manoj Siriparthi
+Role = DevOps Engineer with 5+ years of experience.
+
+# Technical Skills
+Best DevOps Tool = It depends on the use case, but Terraform is highly reliable.
+Favorite Cloud Service = AWS for scalability, though Azure has its advantages.
+Preferred Monitoring Tool = Prometheus for metrics, paired with Grafana for visualization.
+
+
