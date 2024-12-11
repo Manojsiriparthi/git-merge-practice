@@ -16,9 +16,9 @@ Your Task
 
 ✅ Check the branches in your local repository. If you can't find the master branch, use the following commands:
 
-git fetch origin
+    git fetch origin
 
-git checkout -b master origin/master
+    git checkout -b master origin/master
 
 ✅ Create a new branch (name it anything you like).
 
@@ -28,7 +28,7 @@ git checkout -b master origin/master
 
 ✅ Check the difference between your branch's question.txt file and the main branch's question.txt file using:
 
-git diff main <your-branch> -- question.txt
+    git diff main <your-branch> -- question.txt
 
 ✅ Merge the main branch into your branch.
 
