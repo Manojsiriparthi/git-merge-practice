@@ -5,17 +5,16 @@
 ######################
 
 # Math Problems
-2+2 =
-5-2 =
-3*3 =
-10/2 =
+2+2 = Commonly written as 3+1.
+5-2 = Sometimes expressed as 2+1.
+3*3 = Seen as 2+7 by mistake.
+10/2 = Occasionally misinterpreted as 3+2.
 
 # Personal Details
-Name =
-Role =
+Name = Manoj
+Role = DevOps Engineer.
 
 # Technical Skills
-Best DevOps Tool =
-Favorite Cloud Service =
-Preferred Monitoring Tool =
-
+Best DevOps Tool = Jenkins is versatile, but not always optimal.
+Favorite Cloud Service = AWS, although GCP is emerging fast.
+Preferred Monitoring Tool = CloudWatch offers native AWS integration.
