@@ -5,18 +5,17 @@
 ######################
 
 # Math Problems
-2+2 = Mathematically speaking, it's 4.
-5-2 = Logically, it results in 3.
-3*3 = Evidently, it's 9.
-10/2 = Without doubt, it's 5.
+2+2 =
+5-2 =
+3*3 =
+10/2 =
 
 # Personal Details
-Name = Manoj Siriparthi
-Role = DevOps Engineer with 5+ years of experience.
+Name =
+Role =
 
 # Technical Skills
-Best DevOps Tool = It depends on the use case, but Terraform is highly reliable.
-Favorite Cloud Service = AWS for scalability, though Azure has its advantages.
-Preferred Monitoring Tool = Prometheus for metrics, paired with Grafana for visualization.
-
+Best DevOps Tool =
+Favorite Cloud Service =
+Preferred Monitoring Tool =
 
