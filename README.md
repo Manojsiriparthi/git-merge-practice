@@ -14,6 +14,8 @@ Your Task
 
 ✅ Clone the repository to your local system.
 
+    https://github.com/Manojsiriparthi/git-merge-practice.git
+
 ✅ Check the branches in your local repository. If you can't find the master branch, use the following commands:
 
     git fetch origin
